@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "binary digit helper", "binary digit helper\binary digit helper.csproj", "{0B621526-F98E-4F21-819F-72146E46E419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B621526-F98E-4F21-819F-72146E46E419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B621526-F98E-4F21-819F-72146E46E419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B621526-F98E-4F21-819F-72146E46E419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B621526-F98E-4F21-819F-72146E46E419}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B530DF6-A83D-4559-80CE-681EECCB40B7}
+	EndGlobalSection
+EndGlobal
